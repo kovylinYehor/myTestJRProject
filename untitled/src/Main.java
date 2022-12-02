@@ -1,6 +1,6 @@
 public class Main {
 
     public static void main(String[] args){
-        System.out.println("Hello1 world from git!");
+        System.out.println("Hello2 world from git!");
     }
 }
